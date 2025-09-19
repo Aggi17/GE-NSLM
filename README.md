@@ -1,6 +1,7 @@
-# Unveiling Implicit Deceptive Patterns in Fake News: A Neuro-Symbolic Approach with LVLMs
+# Unveiling Fine-grained Deceptive Patterns in Multi-modal Fake News: A Explainable Neuro-Symbolic Framework
 
-This is the official implementation of the paper "Unveiling Implicit Deceptive Patterns in Fake News: A Neuro-Symbolic Approach with LVLMs".
+This is the official implementation of the paper "Unveiling Fine-grained Deceptive Patterns in Multi-modal Fake News: A Explainable Neuro-Symbolic Framework".
+
 
 ## Overview
 
