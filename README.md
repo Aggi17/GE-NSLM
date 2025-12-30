@@ -1,6 +1,6 @@
 # Unveiling Fine-grained Deceptive Patterns in Multi-modal Fake News: A Explainable Neuro-Symbolic Framework
 
-This is the official implementation of the paper "Unveiling Fine-grained Deceptive Patterns in Multi-modal Fake News: A Explainable Neuro-Symbolic Framework".
+This repository provides the official implementation of the paper “Unveiling Fine-grained Deceptive Patterns in Multi-modal Fake News: An Explainable Neuro-Symbolic Framework”, which was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) in December 2025.
 
 
 ## Overview
